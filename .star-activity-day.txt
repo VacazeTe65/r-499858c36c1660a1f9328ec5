@@ -1,1 +1,2 @@
 activity-day:20779 claimed EbookFoundation/free-programming-books abf637bdf8d5
+activity-day:20779 done EbookFoundation/free-programming-books ec897ac6bff1
